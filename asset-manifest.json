@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pradipganesh/static/css/main.79f28129.css",
-    "main.js": "/pradipganesh/static/js/main.c0690c4d.js",
+    "main.js": "/pradipganesh/static/js/main.677565cc.js",
     "static/media/profile.png": "/pradipganesh/static/media/profile.d1d4c83190669a155d92.png",
     "index.html": "/pradipganesh/index.html",
     "main.79f28129.css.map": "/pradipganesh/static/css/main.79f28129.css.map",
-    "main.c0690c4d.js.map": "/pradipganesh/static/js/main.c0690c4d.js.map"
+    "main.677565cc.js.map": "/pradipganesh/static/js/main.677565cc.js.map"
   },
   "entrypoints": [
     "static/css/main.79f28129.css",
-    "static/js/main.c0690c4d.js"
+    "static/js/main.677565cc.js"
   ]
 }
